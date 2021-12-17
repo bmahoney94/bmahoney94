@@ -1,4 +1,6 @@
 Hi, I’m Bryan!
+
+
 My interests lie in the fields of aerodynamics, Guidance Navigation and Control, embedded software, and scientific computing.
 
 <!---
